@@ -1,0 +1,41 @@
+body{
+    background: rgb(143, 141, 141);
+    font-family:'Mr Dafoe', cursive;
+}
+
+
+.header_div {
+    background: whitesmoke;
+    color: brown;
+}
+
+
+.header_div p{
+    font-family: 'Bruno Ace SC', cursive ;
+    color: goldenrod;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+
+.main_div button {
+    font-family: 'Bruno Ace SC', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+
+.copy_right_footer {
+    position: fixed;
+    color: rgb(83, 81, 81);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: blanchedalmond;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 6px 6px 6px cornflowerblue;
+}
